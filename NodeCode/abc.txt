@@ -1,0 +1,2 @@
+This is the text file for operations.
+This data is extracted by the readFile method.new Contentnew Content
